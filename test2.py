@@ -1,1 +1,4 @@
-this is edited by gedit.
+def printMsg(message):
+    print(message);
+
+printMsg("hello people");
